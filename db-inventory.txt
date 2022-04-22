@@ -1,0 +1,2 @@
+Nama Perangkat : cisco, 	 Lokasi : gedung a
+Nama Perangkat : samsung, 	 Lokasi : gedung b
